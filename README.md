@@ -14,4 +14,4 @@ Search for "Jellybeans Variants" in Zed's extension manager, or run `zed: extens
 
 ## Credits
 
-Original theme by [WTFox](https://github.com/wtfox). Ported to Zed by [Andrew Marek](https://github.com/andmarek).
+Original theme by [WTFox](https://github.com/WTFox).
