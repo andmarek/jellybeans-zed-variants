@@ -1,0 +1,7 @@
+id = "jellybeans-variants-theme"
+name = "Jellybeans Variants"
+version = "0.0.1"
+schema_version = 1
+authors = ["Andrew Marek <andrew@andmarek.com>"]
+description = "A port of WTFox's Jellybeans color schemes for Zed"
+repository = "https://github.com/andmarek/jellybeans-theme"
