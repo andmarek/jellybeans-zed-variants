@@ -1,6 +1,6 @@
 # Jellybeans Variants
 
-A port of [WTFox's Jellybeans](https://github.com/wtfox/jellybeans.vim) color schemes for [Zed](https://zed.dev).
+A port of [WTFox's Jellybeans](https://github.com/WTFox/jellybeans.nvim) color schemes for [Zed](https://zed.dev).
 
 ## Themes
 
